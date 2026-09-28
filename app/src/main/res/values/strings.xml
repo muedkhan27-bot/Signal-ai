@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApexSignal</string>
+    <string name="title_live_signals">Live AI Signals</string>
+    <string name="title_market_radar">Market Radar</string>
+    <string name="title_deep_reasoning">AI High-Thinking</string>
+    <string name="title_tournament">Tournament Mode</string>
+    <string name="title_risk_calculator">Risk &amp; Execution</string>
+    <string name="title_history">Trade History</string>
+</resources>

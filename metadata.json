@@ -1,0 +1,6 @@
+{
+  "name": "ApexSignal AI",
+  "description": "Universal AI-powered real-time trading signals, deep market reasoning, cross-platform execution & tournament mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
